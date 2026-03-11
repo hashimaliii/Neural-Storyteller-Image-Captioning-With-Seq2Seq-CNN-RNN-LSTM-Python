@@ -66,8 +66,8 @@ neural-storyteller/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/neural-storyteller.git
-cd neural-storyteller
+git clone https://github.com/hashimaliii/Neural-Storyteller-Image-Captioning-With-Seq2Seq-CNN-RNN-LSTM-Python.git
+cd neural-storyteller-image-captioning-with-seq2seq-cnn-rnn-lstm-Python
 ```
 
 **2. Install dependencies**
